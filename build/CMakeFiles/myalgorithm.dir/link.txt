@@ -1,0 +1,1 @@
+/usr/bin/g++   -g   CMakeFiles/myalgorithm.dir/main.cpp.o  -o myalgorithm -rdynamic 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/algorithm/build",
+  "command": "/usr/bin/g++     -g   -o CMakeFiles/mytest.dir/mytest.o -c /home/algorithm/mytest.cpp",
+  "file": "/home/algorithm/mytest.cpp"
+},
+{
+  "directory": "/home/algorithm/build",
+  "command": "/usr/bin/g++     -g   -o CMakeFiles/main.dir/main.o -c /home/algorithm/main.cpp",
+  "file": "/home/algorithm/main.cpp"
+}
+]

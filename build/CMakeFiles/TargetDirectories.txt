@@ -1,0 +1,6 @@
+/home/algorithm/build/CMakeFiles/package.dir
+/home/algorithm/build/CMakeFiles/package_source.dir
+/home/algorithm/build/CMakeFiles/edit_cache.dir
+/home/algorithm/build/CMakeFiles/rebuild_cache.dir
+/home/algorithm/build/CMakeFiles/mytest.dir
+/home/algorithm/build/CMakeFiles/main.dir
